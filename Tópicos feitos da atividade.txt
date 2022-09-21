@@ -1,0 +1,14 @@
+Francisco Anderson Mendonça Freire - 385107
+
+Tópicos Prática 2 de CSS que estão feitos:
+CSS Inline na página do Painel de Controle - 1
+CSS Interno na página de Resumo de Atividades - 1
+CSS Externo em todas as páginas - 1
+Todos os seletores estão utilizados - 2
+Todos os backgrounds estão aplicados - 5
+Box Model feito - 6
+Tipos diferentes de fontes feitos em cada página - 4
+Padding aplicado no Painel de Controle - 7
+Margin aplicado no Painel de Controle - 7
+Possibilidade de Display aplicada na página de Resumo de Atividades - 3
+Posicionamento absoluto aplicado no Painel de Controle - 8

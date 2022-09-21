@@ -1,0 +1,28 @@
+.menu1{
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
+}
+.botao{
+    margin-left: 100px;
+}
+.menu2{
+    display: inline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:  yellow;
+}
+.menu3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+}
+.menu4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: beige;
+}
+.t1{
+    position: absolute;
+}
+.menu5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: blanchedalmond;
+}
